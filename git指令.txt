@@ -1,0 +1,4 @@
+git add . 	全部加入暫存
+git status	目前狀態
+git commit	送出
+git log		版本號
